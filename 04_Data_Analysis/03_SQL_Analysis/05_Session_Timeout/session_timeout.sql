@@ -55,7 +55,7 @@ ORDER BY a.release_version;
 -- Change:
 -- 14.60% - 5.95% = 8.65 percentage points
 --
--- BA INTERPRETATION:
+-- INTERPRETATION:
 -- Session timeout rate increased substantially after V2.
 -- This supports the hypothesis that V2 is associated with
 -- increased session timeouts.
