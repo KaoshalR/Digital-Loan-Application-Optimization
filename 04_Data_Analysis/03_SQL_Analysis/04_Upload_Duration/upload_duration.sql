@@ -81,7 +81,7 @@ ORDER BY a.release_version;
 -- Average duration increased by 10.19 minutes.
 -- Relative increase: 91.64%.
 --
--- BA INTERPRETATION:
+-- INTERPRETATION:
 -- Average upload duration nearly doubled after the V2 release.
 -- This supports the hypothesis that upload processing became
 -- significantly slower after V2.
