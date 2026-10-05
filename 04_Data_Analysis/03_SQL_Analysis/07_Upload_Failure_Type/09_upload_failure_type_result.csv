@@ -1,0 +1,7 @@
+release_version,error_code,failed_uploads,percentage_of_failed_uploads
+v1,UPLOAD_TIMEOUT,200,51.95
+v1,TRANSFER_ERROR,106,27.53
+v1,FILE_TOO_LARGE,79,20.52
+v2,UPLOAD_TIMEOUT,829,55.05
+v2,TRANSFER_ERROR,379,25.17
+v2,FILE_TOO_LARGE,298,19.79
