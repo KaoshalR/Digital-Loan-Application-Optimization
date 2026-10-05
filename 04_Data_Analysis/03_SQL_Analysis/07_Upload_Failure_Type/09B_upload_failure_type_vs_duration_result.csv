@@ -1,0 +1,4 @@
+error_code,failed_uploads,average_upload_duration_minutes,minimum_upload_duration_minutes,maximum_upload_duration_minutes
+UPLOAD_TIMEOUT,1029,20.25,2.00,41.07
+FILE_TOO_LARGE,377,19.95,2.00,46.78
+TRANSFER_ERROR,485,19.78,2.00,40.70
