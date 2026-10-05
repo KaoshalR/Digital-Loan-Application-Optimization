@@ -82,7 +82,7 @@ GROUP BY
 -- Difference:
 -- 44.88% - 34.40% = 10.48 percentage points
 --
--- BA INTERPRETATION:
+-- INTERPRETATION:
 -- Applications experiencing at least one failed upload had
 -- a higher abandonment rate than applications without failed
 -- uploads.
