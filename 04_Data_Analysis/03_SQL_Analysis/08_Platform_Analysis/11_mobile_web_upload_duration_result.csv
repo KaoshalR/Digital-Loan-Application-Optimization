@@ -1,0 +1,5 @@
+release_version,channel,total_uploads,average_upload_duration_minutes,minimum_upload_duration_minutes,maximum_upload_duration_minutes
+v1,Mobile,2521,13.10,2.00,32.33
+v1,Web,1864,8.45,2.00,22.45
+v2,Mobile,4335,23.41,3.78,46.78
+v2,Web,3171,18.43,2.00,41.13
