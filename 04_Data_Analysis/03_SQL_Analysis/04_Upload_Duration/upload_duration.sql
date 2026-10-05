@@ -60,3 +60,32 @@ WHERE u.start_time IS NOT NULL
 
 GROUP BY a.release_version
 ORDER BY a.release_version;
+
+-- ============================================================
+-- RESULT
+-- ============================================================
+--
+-- V1:
+-- Total uploads: 4,385
+-- Average duration: 11.12 minutes
+-- Minimum: 2.00 minutes
+-- Maximum: 32.33 minutes
+--
+-- V2:
+-- Total uploads: 7,506
+-- Average duration: 21.31 minutes
+-- Minimum: 2.00 minutes
+-- Maximum: 46.78 minutes
+--
+-- Change:
+-- Average duration increased by 10.19 minutes.
+-- Relative increase: 91.64%.
+--
+-- BA INTERPRETATION:
+-- Average upload duration nearly doubled after the V2 release.
+-- This supports the hypothesis that upload processing became
+-- significantly slower after V2.
+--
+-- Further investigation is required to determine whether
+-- longer uploads are contributing to session timeouts and
+-- application abandonment.
