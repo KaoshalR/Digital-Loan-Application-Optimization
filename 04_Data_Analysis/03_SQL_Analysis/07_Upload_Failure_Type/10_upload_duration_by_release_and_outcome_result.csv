@@ -1,0 +1,5 @@
+release_version,upload_status,total_uploads,average_upload_duration_minutes,minimum_upload_duration_minutes,maximum_upload_duration_minutes
+v1,Failed,385,12.18,2.00,27.00
+v1,Successful,4000,11.02,2.00,32.33
+v2,Failed,1506,22.08,2.22,46.78
+v2,Successful,6000,21.11,2.00,43.77
