@@ -1,0 +1,3 @@
+release_version,total_applications,applications_with_service_error,service_error_rate
+v1,2000,72,3.60
+v2,2000,175,8.75
