@@ -1,0 +1,3 @@
+service_error_group,total_applications,abandoned_applications,completed_applications,abandonment_rate
+"No Service Error",3753,1401,2352,37.33
+"Had Service Error",247,102,145,41.30
