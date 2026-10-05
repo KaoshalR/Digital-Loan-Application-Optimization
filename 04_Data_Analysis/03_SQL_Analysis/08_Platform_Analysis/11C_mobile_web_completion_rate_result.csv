@@ -1,0 +1,5 @@
+release_version,channel,total_applications,completed_applications,abandoned_applications,completion_rate
+v1,Mobile,1117,785,332,70.28
+v1,Web,883,654,229,74.07
+v2,Mobile,1136,570,566,50.18
+v2,Web,864,488,376,56.48

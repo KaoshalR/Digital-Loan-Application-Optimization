@@ -1,0 +1,5 @@
+release_version,channel,total_upload_attempts,failed_uploads,successful_uploads,upload_failure_rate
+v1,Mobile,2521,287,2234,11.38
+v1,Web,1864,98,1766,5.26
+v2,Mobile,4335,927,3408,21.38
+v2,Web,3171,579,2592,18.26
