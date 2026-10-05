@@ -83,7 +83,7 @@ GROUP BY
 -- 41.30% - 37.33% = 3.97 percentage points
 -- Relative increase ≈ 10.6%
 --
--- BA INTERPRETATION:
+-- INTERPRETATION:
 -- Applications experiencing at least one service error
 -- had a higher abandonment rate than applications without
 -- a service error.
