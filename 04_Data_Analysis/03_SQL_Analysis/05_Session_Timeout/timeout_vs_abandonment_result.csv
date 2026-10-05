@@ -1,0 +1,3 @@
+timeout_group,total_applications,abandoned_applications,completed_applications,abandonment_rate
+"No Session Timeout",3589,1331,2258,37.09
+"Had Session Timeout",411,172,239,41.85
