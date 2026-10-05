@@ -1,0 +1,3 @@
+timeout_group,total_applications,average_upload_duration_minutes
+"Had Session Timeout",411,19.86
+"No Session Timeout",3589,17.26
