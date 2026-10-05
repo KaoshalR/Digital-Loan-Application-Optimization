@@ -62,3 +62,33 @@ GROUP BY
             THEN 'Had Failed Upload'
         ELSE 'No Failed Upload'
     END;
+    
+    -- ============================================================
+-- RESULT
+-- ============================================================
+--
+-- No Failed Upload:
+-- Applications: 2,788
+-- Abandoned: 959
+-- Completed: 1,829
+-- Abandonment Rate: 34.40%
+--
+-- Had Failed Upload:
+-- Applications: 1,212
+-- Abandoned: 544
+-- Completed: 668
+-- Abandonment Rate: 44.88%
+--
+-- Difference:
+-- 44.88% - 34.40% = 10.48 percentage points
+--
+-- BA INTERPRETATION:
+-- Applications experiencing at least one failed upload had
+-- a higher abandonment rate than applications without failed
+-- uploads.
+--
+-- This supports the hypothesis that upload failures are
+-- associated with increased abandonment.
+--
+-- Causation has not been established.
+-- Further analysis is required.
